@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tag-game-react-2/static/css/main.9af8a7ce.css",
+    "main.js": "/tag-game-react-2/static/js/main.f5fd39f2.js",
+    "static/js/787.e71ca494.chunk.js": "/tag-game-react-2/static/js/787.e71ca494.chunk.js",
+    "index.html": "/tag-game-react-2/index.html",
+    "main.9af8a7ce.css.map": "/tag-game-react-2/static/css/main.9af8a7ce.css.map",
+    "main.f5fd39f2.js.map": "/tag-game-react-2/static/js/main.f5fd39f2.js.map",
+    "787.e71ca494.chunk.js.map": "/tag-game-react-2/static/js/787.e71ca494.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af8a7ce.css",
+    "static/js/main.f5fd39f2.js"
+  ]
+}
